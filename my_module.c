@@ -11,5 +11,7 @@ int mul(a,b){
 }
 
 int div(a,b){
+
 	return a/ b // ÁÖ¼®;
+
 }
