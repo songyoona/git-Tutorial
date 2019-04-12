@@ -9,3 +9,7 @@ int sub(a,b){
 int mul(a,b){
 	return a*b;
 }
+
+int div(a,b){
+	return a/ b // ÁÖ¼®;
+}
